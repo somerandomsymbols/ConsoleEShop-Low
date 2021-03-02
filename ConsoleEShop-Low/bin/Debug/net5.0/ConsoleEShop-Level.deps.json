@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleEShop-Level/1.0.0": {
+        "runtime": {
+          "ConsoleEShop-Level.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleEShop-Level/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

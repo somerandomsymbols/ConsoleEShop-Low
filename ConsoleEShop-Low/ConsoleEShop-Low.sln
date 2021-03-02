@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEShop-Low", "ConsoleEShop-Low.csproj", "{7D872937-560A-431B-AEF0-42B42E4A52AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEShop-LowTests", "..\ConsoleEShop-LowTests\ConsoleEShop-LowTests.csproj", "{C572E64A-380A-47D9-A8D7-439C1AE143B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D872937-560A-431B-AEF0-42B42E4A52AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D872937-560A-431B-AEF0-42B42E4A52AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D872937-560A-431B-AEF0-42B42E4A52AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D872937-560A-431B-AEF0-42B42E4A52AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C572E64A-380A-47D9-A8D7-439C1AE143B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C572E64A-380A-47D9-A8D7-439C1AE143B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C572E64A-380A-47D9-A8D7-439C1AE143B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C572E64A-380A-47D9-A8D7-439C1AE143B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABDDC8C4-B0FB-4DA3-ACBC-04B38BAAB5A6}
+	EndGlobalSection
+EndGlobal

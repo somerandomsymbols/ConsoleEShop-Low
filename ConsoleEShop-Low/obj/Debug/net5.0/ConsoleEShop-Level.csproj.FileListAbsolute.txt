@@ -1,0 +1,16 @@
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.exe
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.deps.json
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.runtimeconfig.json
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.runtimeconfig.dev.json
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.dll
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ref\ConsoleEShop-Level.dll
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\bin\Debug\net5.0\ConsoleEShop-Level.pdb
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.csprojAssemblyReference.cache
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.AssemblyInfoInputs.cache
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.AssemblyInfo.cs
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.csproj.CoreCompileInputs.cache
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.dll
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ref\ConsoleEShop-Level.dll
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.pdb
+C:\Users\somerandomsymbols\source\repos\ConsoleEShop-Level\obj\Debug\net5.0\ConsoleEShop-Level.genruntimeconfig.cache
